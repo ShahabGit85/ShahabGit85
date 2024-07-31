@@ -23,7 +23,6 @@ I’m open to collaborating on:
 
 ### 📫 How to Reach Me
 - **Email**: [shahabqw2hd@gmail.com](mailto:shahabqw2hd@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](#)
 - **Portfolio**: [Your Portfolio Link](#)
 
 ### 🛠️ Skills
