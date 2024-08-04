@@ -23,7 +23,7 @@ I’m open to collaborating on:
 
 ### 📫 How to Reach Me
 - **Email**: [shahabqw2hd@gmail.com](mailto:shahabqw2hd@gmail.com)
-- **Portfolio**: [(https://shahab-portfolio-99d72.web.app/)](#)
+- **Portfolio**: [https://shahab-portfolio-99d72.web.app/](#)
 
 ### 🛠️ Skills
 - **Front-End Development**:
